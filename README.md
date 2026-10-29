@@ -9,6 +9,7 @@ The colour shelf: every palette in use across Cristobal's sites, harvested from 
 | Vault · Classic | The vault's deep-green sky | 10 |
 | Vault · Blood Sky | The vault's red sky | 10 |
 | Atelier Noir | Dalenzo · the rope-strap storefront (light) | 8 |
+| Ida Halvorsen Bands | Landing template · the arch bands and pink core | 9 |
 | itsrito · Forest | itsrito.com default theme | 7 |
 | itsrito · Game Boy | The four original DMG shades, nothing else | 4 |
 | itsrito · Meadow | The one light theme on itsrito | 6 |
@@ -21,4 +22,4 @@ The colour shelf: every palette in use across Cristobal's sites, harvested from 
 | GLYPHFIELD · Violet Storm | Generator ramp (bg + 5 inks) | 6 |
 | GLYPHFIELD · Paper & Ink | Generator ramp (bg + 5 inks) | 6 |
 
-16 palettes, 122 colours. Sources: the Quiet Pixel style guide and collection galleries, the vault's three sky themes, itsrito's four green themes, Dalenzo's Atelier Noir, and GLYPHFIELD's seven DOS ramps.
+17 palettes, 131 colours. Sources: the Quiet Pixel style guide and collection galleries, the vault's three sky themes, itsrito's four green themes, Dalenzo's Atelier Noir, GLYPHFIELD's seven DOS ramps, and the Ida Halvorsen landing template.
