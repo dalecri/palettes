@@ -19,7 +19,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--mono);font-size:15p
 .wrap{max-width:1020px;margin:0 auto;padding:56px 22px 90px}
 .banner{font-size:clamp(12px,2.4vw,19px);line-height:1.3;text-align:center;white-space:pre;overflow:hidden;user-select:none}
 .k{color:var(--amber)} .g{color:var(--gold)} .p{color:var(--pink)} .b{color:var(--blue)} .m{color:var(--mint)} .v{color:var(--violet)} .d{color:var(--faint)}
-h1{font-family:var(--disp);text-align:center;font-size:clamp(38px,6.5vw,58px);font-weight:500;letter-spacing:.01em;margin:20px 0 12px}
+h1{font-family:var(--disp);text-align:center;font-size:clamp(38px,6.5vw,58px);font-weight:500;margin:20px 0 12px}
 h1 .dot{color:var(--amber)}
 .lede{text-align:center;color:var(--muted);max-width:62ch;margin:0 auto}
 .meta{text-align:center;color:var(--faint);font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin-top:18px}
@@ -48,15 +48,13 @@ footer{border-top:1px solid var(--line);margin-top:64px;padding-top:22px;color:v
 footer a{color:var(--muted);text-decoration:none}
 footer a:hover{color:var(--blue)}
 @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
-@font-face{font-family:"Rito Block";src:url("https://heycristobal.com/fonts/assets/fonts/RitoBlock-Regular.woff2") format("woff2"),url("https://heycristobal.com/fonts/assets/fonts/RitoBlock-Regular.ttf") format("truetype");font-display:swap}
-h1 .pix{font-family:"Rito Block",monospace;font-size:.78em;color:var(--amber,#E8B34B)}
 </style>
 </head>
 <body>
 <div class="wrap">
 <pre class="banner" aria-hidden="true"><span class="k">####</span>  <span class="g">%%%%</span>  <span class="p">====</span>  <span class="b">####</span>  <span class="m">%%%%</span>  <span class="v">====</span>
 <span class="d">the colour shelf · one copy of every palette</span></pre>
-<h1><span class="pix">P</span>alettes<span class="dot">.</span></h1>
+<h1>Palettes<span class="dot">.</span></h1>
 <p class="lede">Every colour palette in use across the sites, harvested from the code that actually runs them. Click any swatch to copy its hex; each card also copies out as ready CSS variables.</p>
 <p class="meta" id="stats"></p>
 <canvas id="wave" width="1360" height="36" aria-hidden="true"></canvas>
